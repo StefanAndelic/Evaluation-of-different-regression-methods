@@ -1,4 +1,4 @@
-#Evaluation of different regression methods and performance metrics in predicting the price of round cut diamonds 
+Evaluation of different regression methods and performance metrics in predicting the price of round cut diamonds 
 
 The repository contains Python code for evaluating (e.g. in terms of MSE, RMSE, R-Squared, and MAE) the following regression algorithms (e.g. available within scikit-learn machine learning library) on Diamonds dataset taken from UCI Machine Learning Repository:
 
